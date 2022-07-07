@@ -1,0 +1,6 @@
+framework module SupportSystem {
+  umbrella header "SupportSystem-umbrella.h"
+
+  export *
+  module * { export * }
+}

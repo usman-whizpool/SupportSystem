@@ -1,0 +1,23 @@
+PODS:
+  - SSZipArchive (2.4.3)
+  - SupportSystem (0.1.0)
+
+DEPENDENCIES:
+  - SSZipArchive (~> 2.4.2)
+  - SupportSystem (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SSZipArchive
+
+EXTERNAL SOURCES:
+  SupportSystem:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  SupportSystem: 555bedc95d9bc29e263b485ef439098d4006f039
+
+PODFILE CHECKSUM: b34425afac839c3994f8a9f83323c781ff5b76c2
+
+COCOAPODS: 1.11.3
