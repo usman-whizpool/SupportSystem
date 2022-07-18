@@ -35,7 +35,7 @@ public class SLog{
     var borderColor = UIColor.black.cgColor
     
     // Tag Variable is Project name this is displayed in console
-    var TAG:String = "LogFilePodProj"
+    var TAG:String = "SupportSystemProj"
 
     // Days after log files deleted
     private var KEEP_OLD_LOGS_UP_TO_DAYS:Int = 7
